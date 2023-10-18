@@ -8,12 +8,16 @@ A continuación, se presentan las especificaciones en las que se ejecutó el qui
 
 ## Punto A del quiz
 Archivo: P1.cpp
+
 Compilación: ` g++ -o dot_product_1 -O0 P1.cpp`
+
 Ejecución: `./dot_product_1`
 
 
 ## Punto B del quiz
 
 Archivo P2.cpp
+
 Compilación: `g++ -o dot_product_2 -O0 -mavx2 -std=c++11 P2.cpp`
+
 Ejecución: `./dot_product_2`
